@@ -1,0 +1,326 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VisualLoveProject2.0Ultimate
+</name>
+</assembly>
+<members>
+<member name="E:VisualLoveProject_2._0_Ultimate.UserTrackBar.ValueChanged">
+	<summary>
+ Fires when Slider position has changed
+ </summary>
+</member><member name="E:VisualLoveProject_2._0_Ultimate.UserTrackBar.Scroll">
+	<summary>
+ Fires when user scrolls the Slider
+ </summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbRect">
+	<summary>
+ Gets the thumb rect. Usefull to determine bounding rectangle when creating custom thumb shape.
+ </summary>
+	<value>The thumb rect.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbSize">
+	<summary>
+ Gets or sets the size of the thumb.
+ </summary>
+	<value>The size of the thumb.</value>
+	<exception cref="T:System.ArgumentOutOfRangeException">exception thrown when value is lower than zero or grather than half of appropiate dimension</exception>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbCustomShape">
+	<summary>
+ Gets or sets the thumb custom shape. Use ThumbRect property to determine bounding rectangle.
+ </summary>
+	<value>The thumb custom shape. null means default shape</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbRoundRectSize">
+	<summary>
+ Gets or sets the size of the thumb round rectangle edges.
+ </summary>
+	<value>The size of the thumb round rectangle edges.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.BorderRoundRectSize">
+	<summary>
+ Gets or sets the size of the border round rect.
+ </summary>
+	<value>The size of the border round rect.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.Orientation">
+	<summary>
+ Gets or sets the orientation of Slider.
+ </summary>
+	<value>The orientation.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.Value">
+	<summary>
+ Gets or sets the value of Slider.
+ </summary>
+	<value>The value.</value>
+	<exception cref="T:System.ArgumentOutOfRangeException">exception thrown when value is outside appropriate range (min, max)</exception>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.Minimum">
+	<summary>
+ Gets or sets the minimum value.
+ </summary>
+	<value>The minimum value.</value>
+	<exception cref="T:System.ArgumentOutOfRangeException">exception thrown when minimal value is greather than maximal one</exception>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.Maximum">
+	<summary>
+ Gets or sets the maximum value.
+ </summary>
+	<value>The maximum value.</value>
+	<exception cref="T:System.ArgumentOutOfRangeException">exception thrown when maximal value is lower than minimal one</exception>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.SmallChange">
+	<summary>
+ Gets or sets trackbar's small change. It affects how to behave when directional keys are pressed
+ </summary>
+	<value>The small change value.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.LargeChange">
+	<summary>
+ Gets or sets trackbar's large change. It affects how to behave when PageUp/PageDown keys are pressed
+ </summary>
+	<value>The large change value.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.DrawFocusRectangle">
+	<summary>
+ Gets or sets a value indicating whether to draw focus rectangle.
+ </summary>
+	<value><c>true</c> if focus rectangle should be drawn; otherwise, <c>false</c>.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.DrawSemitransparentThumb">
+	<summary>
+ Gets or sets a value indicating whether to draw semitransparent thumb.
+ </summary>
+	<value><c>true</c> if semitransparent thumb should be drawn; otherwise, <c>false</c>.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.MouseEffects">
+	<summary>
+ Gets or sets whether mouse entry and exit actions have impact on how control look.
+ </summary>
+	<value><c>true</c> if mouse entry and exit actions have impact on how control look; otherwise, <c>false</c>.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.MouseWheelBarPartitions">
+	<summary>
+ Gets or sets the mouse wheel bar partitions.
+ </summary>
+	<value>The mouse wheel bar partitions.</value>
+	<exception cref="T:System.ArgumentOutOfRangeException">exception thrown when value isn't greather than zero</exception>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbOuterColor">
+	<summary>
+ Gets or sets the thumb outer color .
+ </summary>
+	<value>The thumb outer color.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbInnerColor">
+	<summary>
+ Gets or sets the inner color of the thumb.
+ </summary>
+	<value>The inner color of the thumb.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ThumbPenColor">
+	<summary>
+ Gets or sets the color of the thumb pen.
+ </summary>
+	<value>The color of the thumb pen.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.BarOuterColor">
+	<summary>
+ Gets or sets the outer color of the bar.
+ </summary>
+	<value>The outer color of the bar.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.BarInnerColor">
+	<summary>
+ Gets or sets the inner color of the bar.
+ </summary>
+	<value>The inner color of the bar.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.BarPenColor">
+	<summary>
+ Gets or sets the color of the bar pen.
+ </summary>
+	<value>The color of the bar pen.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ElapsedOuterColor">
+	<summary>
+ Gets or sets the outer color of the elapsed.
+ </summary>
+	<value>The outer color of the elapsed.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ElapsedInnerColor">
+	<summary>
+ Gets or sets the inner color of the elapsed.
+ </summary>
+	<value>The inner color of the elapsed.</value>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.UserTrackBar.ColorSchema">
+	<summary>
+ Sets color schema. Color generalization / fast color changing. Has no effect when slider colors are changed manually after schema was applied. 
+ </summary>
+	<value>New color schema value</value>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.#ctor">
+	<summary>
+ Initializes a new instance of the <see cref="!:ColorSlider"/> class.
+ </summary>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnPaint(System.Windows.Forms.PaintEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.Paint"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.PaintEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.DrawColorSlider(System.Windows.Forms.PaintEventArgs,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Draws the colorslider control using passed colors.
+ </summary>
+	<param name="e">The <see cref="T:System.Windows.Forms.PaintEventArgs"/> instance containing the event data.</param>
+	<param name="thumbOuterColorPaint">The thumb outer color paint.</param>
+	<param name="thumbInnerColorPaint">The thumb inner color paint.</param>
+	<param name="thumbPenColorPaint">The thumb pen color paint.</param>
+	<param name="barOuterColorPaint">The bar outer color paint.</param>
+	<param name="barInnerColorPaint">The bar inner color paint.</param>
+	<param name="barPenColorPaint">The bar pen color paint.</param>
+	<param name="elapsedOuterColorPaint">The elapsed outer color paint.</param>
+	<param name="elapsedInnerColorPaint">The elapsed inner color paint.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnEnabledChanged(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.EnabledChanged"></see> event.
+ </summary>
+	<param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseEnter(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseEnter"></see> event.
+ </summary>
+	<param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseLeave(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseLeave"></see> event.
+ </summary>
+	<param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseDown"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseMove"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseUp"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnMouseWheel(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.MouseWheel"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.MouseEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnGotFocus(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.GotFocus"></see> event.
+ </summary>
+	<param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnLostFocus(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.LostFocus"></see> event.
+ </summary>
+	<param name="e">An <see cref="T:System.EventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.OnKeyUp(System.Windows.Forms.KeyEventArgs)">
+	<summary>
+ Raises the <see cref="E:System.Windows.Forms.Control.KeyUp"></see> event.
+ </summary>
+	<param name="e">A <see cref="T:System.Windows.Forms.KeyEventArgs"></see> that contains the event data.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.ProcessDialogKey(System.Windows.Forms.Keys)">
+	<summary>
+ Processes a dialog key.
+ </summary>
+	<param name="keyData">One of the <see cref="T:System.Windows.Forms.Keys"></see> values that represents the key to process.</param>
+	<returns>
+ true if the key was processed by the control; otherwise, false.
+ </returns>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.CreateRoundRectPath(System.Drawing.Rectangle,System.Drawing.Size)">
+	<summary>
+ Creates the round rect path.
+ </summary>
+	<param name="rect">The rectangle on which graphics path will be spanned.</param>
+	<param name="size">The size of rounded rectangle edges.</param>
+	<returns></returns>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.DesaturateColors(System.Drawing.Color[])">
+	<summary>
+ Desaturates colors from given array.
+ </summary>
+	<param name="colorsToDesaturate">The colors to be desaturated.</param>
+	<returns></returns>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.LightenColors(System.Drawing.Color[])">
+	<summary>
+ Lightens colors from given array.
+ </summary>
+	<param name="colorsToLighten">The colors to lighten.</param>
+	<returns></returns>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.SetProperValue(System.Int32)">
+	<summary>
+ Sets the trackbar value so that it wont exceed allowed range.
+ </summary>
+	<param name="val">The value.</param>
+</member><member name="M:VisualLoveProject_2._0_Ultimate.UserTrackBar.IsPointInRect(System.Drawing.Point,System.Drawing.Rectangle)">
+	<summary>
+ Determines whether rectangle contains given point.
+ </summary>
+	<param name="pt">The point to test.</param>
+	<param name="rect">The base rectangle.</param>
+	<returns>
+		<c>true</c> if rectangle contains given point; otherwise, <c>false</c>.
+ </returns>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources._16x16_close">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.ButtonDown">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.ButtonNormal">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.ButtonUp">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.Close_Down">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.Close_Normal">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.Close_Up">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.Fondo_vb_net_2010">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.menues">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.splass">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.TabClose">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.TabHover">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:VisualLoveProject_2._0_Ultimate.My.Resources.Resources.TabPressed">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:VisualLoveProject_2._0_Ultimate.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:VisualLoveProject_2._0_Ultimate.AutoCompletad.MethodAutocompleteItem2">
+	<summary>
+ This autocomplete item appears after dot
+ </summary>
+</member>
+</members>
+</doc>

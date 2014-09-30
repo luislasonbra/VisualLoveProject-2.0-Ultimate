@@ -1,0 +1,98 @@
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe.config
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.pdb
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.dll
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.pdb
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ColorCustomForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Console.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UserTabControl.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ImageViewForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.InputBoxCustom1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.LanguajeManajerForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertiesForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertyFileForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.SplassForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ThemeManagerForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UpdateProject.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.MainForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.FindForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.GoToLineForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.OptionsForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ReplaceForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Resources.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.NewProject.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\00 - Original\10\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ColorCustomForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Console.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UserTabControl.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ImageViewForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.InputBoxCustom1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.LanguajeManajerForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertiesForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertyFileForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.SplassForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ThemeManagerForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UpdateProject.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.MainForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.FindForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.GoToLineForm1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.OptionsForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ReplaceForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.NewProject.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe.config
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.pdb
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.dll
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.dll
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.pdb
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\IcoChanged.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.pdb
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\bin\Debug\FastColoredTextBox.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.vbprojResolveAssemblyReference.cache
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ColorCustomForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Console.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UserTabControl.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ImageViewForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.InputBoxCustom1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.LanguajeManajerForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertiesForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.PropertyFileForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.SplassForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ThemeManagerForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.UpdateProject.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.MainForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.FindForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.GoToLineForm1.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.OptionsForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.ReplaceForm.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.Resources.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject_2._0_Ultimate.NewProject.resources
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.vbproj.GenerateResource.Cache
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.exe
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.xml
+C:\Users\luislasonbra\Documents\Visual Studio 2010\Projects\VisualLoveProject 2.0 Ultimate\VisualLoveProject 2.0 Ultimate\obj\x86\Debug\VisualLoveProject 2.0 Ultimate.pdb

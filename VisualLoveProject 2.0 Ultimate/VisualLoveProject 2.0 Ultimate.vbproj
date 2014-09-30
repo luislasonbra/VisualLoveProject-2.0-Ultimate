@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5C54151C-9EF0-49F4-AC35-2E93FF1CF00F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VisualLoveProject_2._0_Ultimate.My.MyApplication</StartupObject>
+    <RootNamespace>VisualLoveProject_2._0_Ultimate</RootNamespace>
+    <AssemblyName>VisualLoveProject 2.0 Ultimate</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VisualLoveProject 2.0 Ultimate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VisualLoveProject 2.0 Ultimate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>My.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastColoredTextBox, Version=2.9.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\00 - Dll.net\FastColoredTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\..\..\..\..\..\00 No borrar\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\AddExtencion.vb" />
+    <Compile Include="Class\AutoCompleted.vb" />
+    <Compile Include="Class\bookmarkCode.vb" />
+    <Compile Include="Class\Console.Designer.vb">
+      <DependentUpon>Console.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Console.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Class\ExploredCode.vb" />
+    <Compile Include="Class\FileFolderEditor\FileFolderCreator.vb" />
+    <Compile Include="Class\Languajes_Cass\LanguajeManager.vb" />
+    <Compile Include="Class\Help_Class\Help_Function.vb" />
+    <Compile Include="Class\PropertyOptions.vb" />
+    <Compile Include="Class\Read_Theme\PakIcoFile.vb" />
+    <Compile Include="Class\SaveProjectOpenState\ControllerStateProject.vb" />
+    <Compile Include="Class\TabControl\Help.vb" />
+    <Compile Include="Class\UpdateProjectClass.vb" />
+    <Compile Include="Class\UserTrackBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Class\XML_READER\ReadXMLFile.vb" />
+    <Compile Include="Class\UpdateControlStatus.vb" />
+    <Compile Include="Class\UserPictureBox.Designer.vb">
+      <DependentUpon>UserPictureBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Class\UserPictureBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Class\TabControl\UserTabControl.Designer.vb">
+      <DependentUpon>UserTabControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Class\TabControl\UserTabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\ColorCustomForm1.Designer.vb">
+      <DependentUpon>ColorCustomForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ColorCustomForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\XML_READER\SaveXMLFile.vb" />
+    <Compile Include="Forms\ImageViewForm1.Designer.vb">
+      <DependentUpon>ImageViewForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImageViewForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InputBoxCustom1.Designer.vb">
+      <DependentUpon>InputBoxCustom1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InputBoxCustom1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LanguajeManajerForm1.Designer.vb">
+      <DependentUpon>LanguajeManajerForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LanguajeManajerForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PropertiesForm1.Designer.vb">
+      <DependentUpon>PropertiesForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PropertiesForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PropertyFileForm1.Designer.vb">
+      <DependentUpon>PropertyFileForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PropertyFileForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SplassForm1.Designer.vb">
+      <DependentUpon>SplassForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplassForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ThemeManagerForm1.Designer.vb">
+      <DependentUpon>ThemeManagerForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ThemeManagerForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UpdateProject.Designer.vb">
+      <DependentUpon>UpdateProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UpdateProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm1.Designer.vb">
+      <DependentUpon>MainForm1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindForm1.Designer.vb">
+      <DependentUpon>FindForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FindForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GoToLineForm1.Designer.vb">
+      <DependentUpon>GoToLineForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GoToLineForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OptionsForm1.Designer.vb">
+      <DependentUpon>OptionsForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OptionsForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReplaceForm1.Designer.vb">
+      <DependentUpon>ReplaceForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReplaceForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Class\SintaxisEditor.vb" />
+    <Compile Include="Class\TbInfo.vb" />
+    <Compile Include="Themas\SyntaxisStyle.vb" />
+    <Compile Include="Themas\VisualStudio2010.vb" />
+    <Compile Include="Class\VLP_Styles.vb" />
+    <Compile Include="Forms\NewProject1.Designer.vb">
+      <DependentUpon>NewProject1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewProject1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\ColorCustomForm1.resx">
+      <DependentUpon>ColorCustomForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class\Console.resx">
+      <DependentUpon>Console.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Class\TabControl\UserTabControl.resx">
+      <DependentUpon>UserTabControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImageViewForm1.resx">
+      <DependentUpon>ImageViewForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InputBoxCustom1.resx">
+      <DependentUpon>InputBoxCustom1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LanguajeManajerForm1.resx">
+      <DependentUpon>LanguajeManajerForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PropertiesForm1.resx">
+      <DependentUpon>PropertiesForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PropertyFileForm1.resx">
+      <DependentUpon>PropertyFileForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplassForm1.resx">
+      <DependentUpon>SplassForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ThemeManagerForm1.resx">
+      <DependentUpon>ThemeManagerForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UpdateProject.resx">
+      <DependentUpon>UpdateProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm1.resx">
+      <DependentUpon>MainForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FindForm1.resx">
+      <DependentUpon>FindForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GoToLineForm1.resx">
+      <DependentUpon>GoToLineForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OptionsForm1.resx">
+      <DependentUpon>OptionsForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReplaceForm1.resx">
+      <DependentUpon>ReplaceForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewProject1.resx">
+      <DependentUpon>NewProject1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Themas\Visual Studio 2010 - Icon.pak" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IcoChanged\IcoChanged.vbproj">
+      <Project>{261D177B-4FD0-44B0-A3FB-82993530F700}</Project>
+      <Name>IcoChanged</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="My.ico" />
+    <None Include="Resources\BlankStartButtonPressed.png" />
+    <None Include="Resources\BlankStartButtonHotBlack.png" />
+    <None Include="Resources\BlankStartButtonHot.png" />
+    <None Include="Resources\Fondo vb.net 2010.png" />
+    <None Include="Resources\Close_Up.png" />
+    <None Include="Resources\Close_Normal.png" />
+    <None Include="Resources\Close_Down.png" />
+    <None Include="Resources\menues.png" />
+    <None Include="Resources\TabPressed.png" />
+    <None Include="Resources\TabHover.png" />
+    <None Include="Resources\TabClose.png" />
+    <None Include="Resources\16x16 close.png" />
+    <None Include="Resources\splass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
